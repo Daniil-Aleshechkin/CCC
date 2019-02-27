@@ -1,3 +1,6 @@
+#From the 2019 competition
+#Slow but functional
+
 averages = []
 n = int(input())
 

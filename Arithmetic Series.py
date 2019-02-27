@@ -1,3 +1,6 @@
+#From the 2019 competition
+#I've made a simple solution that will only work if every 'X' could be solved on each row i.e. rows with only one 'X'
+
 def printGrid(grid):
     for y in grid:
         for x in y:

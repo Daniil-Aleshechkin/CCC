@@ -1,3 +1,5 @@
+#Could not find the bug output
+
 memo = []
 def combineRouts(a,b,routs):
     global memo

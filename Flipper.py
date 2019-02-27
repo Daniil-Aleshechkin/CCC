@@ -1,3 +1,5 @@
+#From the 2019 competition
+#Completly functional
 grid = [[1,2],[3,4]]
 
 instructions = input()

@@ -1,3 +1,4 @@
+#
 class Board():
     #Convert list of str into objects
     def __init__(self,board,yLen,xLen):

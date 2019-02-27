@@ -26,9 +26,7 @@ for x in range(p-1):
         else:
             b = randPos
         while a != b:
-            print(a,b)
             randPos = random.randint(a,b)
-            print(randPos)
             
             if dockedS[randPos] == randPos:
                 break
@@ -37,7 +35,6 @@ for x in range(p-1):
             else:
                 b = randPos
         
-        print(dockedS)
         dockedS.insert(randPos,n)
         l += 1
         

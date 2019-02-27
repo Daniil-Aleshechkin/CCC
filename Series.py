@@ -1,3 +1,5 @@
+#From 2019 competition
+#Incomplete due to time
 nk = input().split()
 
 n = int(nk[0])
@@ -6,7 +8,6 @@ k = int(nk[1])
 i = [int(x) for x in input().split()]
 
 
-while 
 l = i[:k]
 r = i[len(i)-k:]
 l.sort()

@@ -1,3 +1,4 @@
+#
 sizes = ["L","M","S"]
 
 nJ = int(input())

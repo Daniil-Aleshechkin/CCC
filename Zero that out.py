@@ -1,3 +1,4 @@
+#Complete Solution
 n = int(input())
 nums = []
 

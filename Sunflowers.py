@@ -1,3 +1,4 @@
+#Complete Solution
 def check(table):
     for x in table:
         prev = x[0]

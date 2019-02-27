@@ -1,3 +1,4 @@
+#Complete solution
 def midPoint(a,b):
     return((b-a)/2+a)
 

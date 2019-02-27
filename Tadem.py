@@ -1,3 +1,4 @@
+#Complete but slow solution
 nQ = int(input())
 
 n = int(input())
